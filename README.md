@@ -6,19 +6,6 @@ A pixel-perfect clone of the [Internet Computer (ICP) Dashboard](https://dashboa
 https://github.com/user-attachments/assets/ae6e86e7-5cf3-45cc-a3d1-93c880d38309
 
 
-
-https://github.com/user-attachments/assets/ae6e86e7-5cf3-45cc-a3d1-93c880d38309
-
-
-
-https://github.com/user-attachments/assets/f38f71f9-7570-4253-8190-5ffa50c13c2d
-
-
-
-https://github.com/user-attachments/assets/f38f71f9-7570-4253-8190-5ffa50c13c2d
-
-
-
 <br>
 
 ## ⚡ Real-Time Data Integration
