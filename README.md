@@ -4,7 +4,7 @@ A pixel-perfect clone of the [Internet Computer (ICP) Dashboard](https://dashboa
 
 <div align="center">
   <video 
-    src="recording-2x-compr.mp4" 
+    src="./recording-2x-compr.mp4" 
     width="100%" 
     autoplay 
     loop 
