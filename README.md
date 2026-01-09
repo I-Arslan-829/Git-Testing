@@ -2,7 +2,22 @@
 
 A pixel-perfect clone of the [Internet Computer (ICP) Dashboard](https://dashboard.internetcomputer.org) homepage. This project replicates the UI/UX, responsiveness, and design system of the original site, featuring **real-time data** powered by official ICP APIs.
 
-![Dashboard Demo](./recording-2x-compr.mp4)
+
+https://github.com/user-attachments/assets/ae6e86e7-5cf3-45cc-a3d1-93c880d38309
+
+
+
+https://github.com/user-attachments/assets/ae6e86e7-5cf3-45cc-a3d1-93c880d38309
+
+
+
+https://github.com/user-attachments/assets/f38f71f9-7570-4253-8190-5ffa50c13c2d
+
+
+
+https://github.com/user-attachments/assets/f38f71f9-7570-4253-8190-5ffa50c13c2d
+
+
 
 <br>
 
