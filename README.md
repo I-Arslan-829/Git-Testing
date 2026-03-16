@@ -6,7 +6,20 @@
 1. [ ] this is not done yet also
 2. [X] this one is completed
 
-> [!CAUTION]
-> This is very important msg 
+> [!NOTE]
+> (Displays in Blue) Useful information that users should know.
 
-[website url linl][https://www.youtube.com]
+> [!TIP]
+> (Displays in Green) Helpful advice for doing things better.
+
+> [!IMPORTANT]
+> (Displays in Purple) Key information users need to know.
+
+> [!WARNING]
+> (Displays in Yellow) Urgent info that needs immediate attention.
+
+> [!CAUTION]
+> (Displays in Red) Advises about risks or negative outcomes.
+
+
+# [Compiler Construction - Niklaus Wirth (Chapter #4.1)](https://your-link-here.com)
